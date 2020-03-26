@@ -2,8 +2,7 @@
 
 The aim is to store s3 object(i.e .json or .csv files) data to DynamoDB table whenever we upload an object to s3 bucket.
 
-##sample-s3-event.json : 
-Event file which get passed to Lambda Handler function as an argument. This is a sample.
+sample-s3-event.json : Event file which get passed to Lambda Handler function as an argument. This is a sample.
 
 Requrements:
 
